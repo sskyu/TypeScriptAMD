@@ -1,0 +1,23 @@
+{
+  "name": "TypeScriptAMD",
+  "version": "0.0.0",
+  "authors": [
+    "Yutaka Sasaki <sskyutaka@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "underscore": "~1.6.0",
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2",
+    "require-handlebars-plugin": "~0.8.1",
+    "handlebars": "~1.3.0"
+  }
+}
